@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-daostarwebsite-dev-81127-authRole",
+      "UnauthRoleArn": "arn:aws:iam::836240692170:role/amplify-daostarwebsite-dev-81127-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::836240692170:role/amplify-daostarwebsite-dev-81127-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-daostarwebsite-dev-81127-deployment",
+      "UnauthRoleName": "amplify-daostarwebsite-dev-81127-unauthRole",
+      "StackName": "amplify-daostarwebsite-dev-81127",
+      "StackId": "arn:aws:cloudformation:us-east-1:836240692170:stack/amplify-daostarwebsite-dev-81127/dcb6a870-3c81-11ee-a31b-128adef30391",
+      "AmplifyAppId": "d2zuksri6unhuw"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2zuksri6unhuw",
+          "type": "manual"
+        }
+      },
+      "api": {
+        "daostarlab": {}
+      }
+    }
+  }
+}

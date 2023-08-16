@@ -1,6 +1,6 @@
 {
   "api": {
-    "daostarwebsite": {
+    "daostarlab": {
       "dependsOn": [],
       "output": {
         "authConfig": {
